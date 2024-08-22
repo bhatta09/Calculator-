@@ -5,7 +5,10 @@ body{
     align-items: center;
     height:100vh;
     background-color: hsl(0, 0%, 95%);
+    background-image: url("./pexels-breakingpic-3305.jpg");
+    background-size: cover;
 }
+
 #calculator{
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
